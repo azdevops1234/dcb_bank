@@ -24,6 +24,6 @@
 
   </dependencies>
   <build>
-    <finalName>01-maven-web-application-new</finalName>
+    <finalName>01-maven-web-application-new1</finalName>
   </build>
 </project>
